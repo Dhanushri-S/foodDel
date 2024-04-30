@@ -1,7 +1,7 @@
 .header {
     height: 34vw;
     margin: 30px auto;
-    background: url('D:\react class\Food-Del\front-end\src\assets\header_img.png') no-repeat;
+    background: url('..\assets\header_img.png') no-repeat;
     background-size: 100% 100%;
     position: relative;
 }

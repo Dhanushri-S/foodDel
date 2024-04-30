@@ -1,7 +1,8 @@
 .header {
     height: 34vw;
     margin: 30px auto;
-    background: url('..\assets\header_img.png') no-repeat;
+    background: url(' ../src/assets/header_img.png') no-repeat;
+/*     https://github.com/Dhanushri-S/foodDel/blob/main-new/src/assets/header_img.png */
     background-size: 100% 100%;
     position: relative;
 }
